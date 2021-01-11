@@ -1,6 +1,6 @@
-#HW1: Node.js and Git
+# HW1: Node.js and Git
 Due Monday by 11:59pm Points 10 Submitting a text entry box
-#Motivation
+# Motivation
 This week's assignment is to get set up with node on engineering server and GitHub. It is primarily a technical hurdle that needs to be overcome. We will go into details of Node.js in Week 7 module when we start to learn server side interactions.  For now, you only need to get the node running.  If all steps go smoothly, this assignment should be a 20 minute process, but be prepared for things to not go smoothly. Make sure to get started early on this as it can take awhile to troubleshoot problems.
 
 Many students question why we spend Week 1 setting up a Node server when we don't cover that topic until much later in the course. This is a fair question, but the goal is to try to set up all the tools you will need early in case there are problems that we need to contact the support team about. This small amount of time invested now, will hopefully catch all the issues so you can concentrate on creating the server in Week 7, not fighting your tools.
@@ -9,7 +9,7 @@ From 2016 fall, we started to run Node on OSU's engineering server instead of Am
 
 NOTE: Setting up the Node.js on the engineering server requires the MySQL account which will be created for you by the OSU's support team at the beginning of the term.  Please don't start this work until you get a notification from the instructor that the account has been created. Otherwise, you will get errors while trying to connect to the database. You can set up your GitHub account first. If you add the course late please email Eric Ianni (iannie@oregonstate.edu) as soon as possible because the support team needs to manually update their rosters to include anyone not present from Day 1.
 
-#Requirements:
+# Requirements:
 
 Set up Node on Engineering servers
 Start the Node.js process
@@ -17,7 +17,7 @@ Create a GitHub account (We would highly recommend requesting a student dev pack
 Create a GitHub repository and add some content to it.
  
 
-#What to turn in
+# What to turn in
 Submit the following two addresses on Canvas as text.
 
 The address where we can access Node on Engineering Servers.
@@ -28,7 +28,7 @@ This repository should have at least 2 files (any file type or content works) ad
 If you set your repository as public, everyone can access it.  If you set it as private, please add OSU-CS290-Tester as a collaborator (you do not need to wait for the response from the Collaborator) so TAs can use the tester account to check your repository for grading.
 Any submissions that do not include the Flip server URL, GitHub repo URL, and/or do not add OSU-CS290-Tester as a collaborator, will receive a 1 point deduction.
 
-#Hints/Tips
+# Hints/Tips
 Before you start the first step, connect to OSU VPN and keep the VPN connection during the whole setup process.
 You do not need to change your default password and we think it is better to leave it as default since if something is not working for you, the TAs and instructors can test your account on our side.
 If you do change the default password, you need to update it in the dbcon.js file.
